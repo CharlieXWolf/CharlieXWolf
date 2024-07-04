@@ -5,9 +5,9 @@
 
 - ⚡ Fun fact **I think I am No One.**
 
-- 📄 Know about my experiences **ruwanthadissanayake.me**
+- 📄 Know about my experiences **www.ruwanthadissanayake.me**
 
-- 📫 How to reach me **www.ruwantha31psnl@gmail.com**
+- 📫 How to reach me **ruwantha31psnl@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
