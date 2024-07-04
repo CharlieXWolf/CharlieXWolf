@@ -1,5 +1,5 @@
 <h1 align="center">Ayubhowan👋,I'm Ruwantha Dissanayake</h1>
-<h3 align="center">A SET Enthusiast from LK :flag_sri_lanka:</h3>
+<h3 align="center">A SET Enthusiast from 🇱🇰:</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charliexwolf&label=Profile%20views&color=0e75b6&style=flat" alt="charliexwolf" /> </p>
 
