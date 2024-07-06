@@ -19,7 +19,7 @@
 <hr/>
 
 <h3 align="left">Software Skill:</h3>
-<p align="left">  <a href="https://www.solidworks.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/CharlieXWolf/CharlieXWolf/blob/main/Icons/SolidWorks%20Icon.svg" width="40" height="40"/> </a><a href="https://www.autodesk.com/products/autocad/overview?term=1-YEAR&tab=subscription" target="_blank" rel="noreferrer"> <img src="Icons/AutoCad Icon.svg" width="40" height="40"/> </a><a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> </p>
+<p align="left">  <a href="https://www.solidworks.com/" target="_blank" rel="noreferrer"> <img src="Icons/Solidworks Icon.svg" width="40" height="40"/> </a><a href="https://www.autodesk.com/products/autocad/overview?term=1-YEAR&tab=subscription" target="_blank" rel="noreferrer"> <img src="Icons/AutoCad Icon.svg" width="40" height="40"/> </a><a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> </p>
 <hr/>
 
 <h3 align="left">Languages and Tools:</h3>
